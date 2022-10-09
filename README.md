@@ -2,7 +2,6 @@
 - 👀 I’m interested in everything and anything web3
 - 🌱 I’m currently learning how to impact the web3 space as a dev
 - 💞️ I’m looking to collaborate on web3 (you guessed it)
-- 📫 How to reach me https://twitter.com/fujin74
 
 <!---
 xfujin/xfujin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
